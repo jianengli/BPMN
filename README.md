@@ -12,7 +12,10 @@ A wedding planning company is a professional company which assists with the desi
 In this project, BPMN (Business Process Model and Notation) was used to support the both IT and business staff to manage the business process of the wedding planning company. 
 
 ## LiveDemo
-- [Live demo](https://github.com/tommyLi66/BPMN/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A1%A8%E5%8D%95.png)
+<p align="center">
+<img src="https://github.com/tommyLi66/BPMN/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A1%A8%E5%8D%95.png"/>
+</p>
+<p align="center">
 
 ## Maintainers
 [@Jianeng](https://github.com/tommyLi66).
